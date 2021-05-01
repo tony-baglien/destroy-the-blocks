@@ -1,0 +1,9 @@
+#gameScreen {
+  height: 600px;
+  width: 800px;
+  border: 1px solid rgba(0, 0, 0, 0.705);
+}
+
+img {
+  display: none;
+}
